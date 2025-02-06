@@ -1,0 +1,19 @@
+Script started on 2025-02-06 04:09:55+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="160" LINES="12"]
+[0;32m@Jayanth337 [0m➜ [1;34m/workspaces/netp [0;36m([1;31mmain[0;36m) [0m$ gcc ass1 -o ass1
+[01m[Kgcc:[m[K [01;31m[Kerror: [m[Kass1: No such file or directory
+[01m[Kgcc:[m[K [01;31m[Kfatal error: [m[Kno input files
+compilation terminated.
+[0;32m@Jayanth337 [1;31m➜ [1;34m/workspaces/netp [0;36m([1;31mmain[0;36m) [0m$ gcc ass1 -o ass1[C[1@.[1@c
+[0;32m@Jayanth337 [0m➜ [1;34m/workspaces/netp [0;36m([1;31mmain[0;36m) [0m$ ./ass1
+Main Parent Process ID: 5969
+
+First Child Process ID: 5970
+Second Child Process ID: 5971
+
+First child completed after 1 sec, PID: 5970, Exit Code: 1
+Second child completed after 2 sec, PID: 5971, Exit Code: 2
+
+Main Parent Process (PID: 5969) is terminating.
+[0;32m@Jayanth337 [0m➜ [1;34m/workspaces/netp [0;36m([1;31mmain[0;36m) [0m$ exit
+
+Script done on 2025-02-06 04:10:27+00:00 [COMMAND_EXIT_CODE="0"]
